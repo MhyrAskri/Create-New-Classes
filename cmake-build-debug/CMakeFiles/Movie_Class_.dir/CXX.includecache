@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bcz/CLionProjects/Movie(Class)/Movie.h
+string
+-
+
+C:/Users/bcz/CLionProjects/Movie(Class)/Movies.cpp
+iostream
+-
+Movies.h
+C:/Users/bcz/CLionProjects/Movie(Class)/Movies.h
+
+C:/Users/bcz/CLionProjects/Movie(Class)/Movies.h
+vector
+-
+string
+-
+Movie.h
+C:/Users/bcz/CLionProjects/Movie(Class)/Movie.h
+
